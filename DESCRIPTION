@@ -17,3 +17,5 @@ Imports:
     magrittr,
     pointblank,
     tidyselect
+URL: https://github.com/PIP-Technical-Team/pipvalidate
+BugReports: https://github.com/PIP-Technical-Team/pipvalidate/issues
